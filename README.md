@@ -1,4 +1,4 @@
 # INT320 Data Structure and Algorithm
 
-[] Collection Framework
-- [] List
+- [ ] Collection Framework
+- [ ] List
