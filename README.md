@@ -8,8 +8,8 @@
 
 * - [ ] Collection Framework
   * - [ ] List
-  * - [ ] ArrayList
+    * - [ ] ArrayList
     * - [ ] CirularArray
-  * - [ ] LinkedList
-  * - [ ] Stack
-  * - [ ] Queue
+    * - [ ] LinkedList
+    * - [ ] Stack
+    * - [ ] Queue
